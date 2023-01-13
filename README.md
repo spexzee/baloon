@@ -1,5 +1,8 @@
 # baloon
-# include "graphics.h"
+<br>
+<hr>
+<p>
+  # include "graphics.h"
 # include "conio.h"
 # include "stdio.h"
 # include "stdlib.h"
@@ -362,4 +365,5 @@ void main()
                 settextstyle(0,0,0);
                 setbkcolor(YELLOW);
                 clearviewport();
-            }
+            }  
+    </p>
